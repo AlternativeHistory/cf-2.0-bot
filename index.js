@@ -8,7 +8,7 @@ client.on('ready', async () => { // When the client is "ready"
     console.log(`${client.user.username} has been successfully launched`)
 }); 
  
-const token = ("MTMyNDgzNDc2NDI3MTc4Mzk5Nw.GWYLN8.RKe--gBPD3elAV_9JH57P3D5IpgDzn-dd_KBvk") // Define your bot token here
+const token = ("MTMyNDgzNDc2NDI3MTc4Mzk5Nw.GEqMpM.WYwDPPSaIQA-n1MDLQpTUgWiJk06B0dQZacvCU") // Define your bot token here
  
 // The code for banning members 
  
